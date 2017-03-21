@@ -6,9 +6,28 @@ a{
 	text-decoration: underline;
 	color:deepskyblue;
 }
-.lime{
-	margin-left:30%;
-	margin-right:30%;
+
+.top{
+	background-color: lightgrey;
+}
+
+.beta{
 	background-color:black;
 	color:white;
+}
+
+.more{
+	background-color: lime;
+}
+
+.types{
+	background-color: yellow;
+}
+
+h1{
+	font-family: tahoma;
+	font-size: 32px;
+	text-decoration: none;
+	color:green;
+	margin-left: 30%;
 }
